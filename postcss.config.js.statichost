@@ -1,0 +1,6 @@
+module.exports = {
+  plugins: {
+    "/usr/local/lib/node_modules/@tailwindcss/postcss": {},
+    autoprefixer: {},
+  }
+}
